@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100..900&family=Oswald:wght@200..700&display=swap');
+
+
+
+body{
+background-color: #f5f5f5;
+font-family: "Montserrat", sans-serif;
+font-size:20px;
+
+
+}
+
+h1 {
+    color: rgb(12, 85, 168);
+    font-family: "Oswald", sans-serif;
+    font-size:80px;
+    text-align: center;
+    font-weight: 700;
+}
+h2 {
+    font-family: "Oswald", sans-serif;
+    font-size: 60px;
+    text-align: center;
+    font-weight: 500;
+    
+}
+h3 {
+    font-family: "Oswald", sans-serif;
+    font-weight: 300;
+    font-size: 30px;
+   margin-left: 5%;
+}
+
+
+img {
+width: 30%;
+margin: auto;
+display: block;
+border-radius: 50%;
+
+
+}
+
+a {
+    text-decoration:none;
+    color: black;
+
+}
+
+
+#vinculo:hover{
+   font-style:italic;
+   color: #B5838D;
+}
+
+a:hover{
+
+text-decoration: underline;
+
+} 
+
+
+#historia {
+    font-family:"Montserrat", sans-serif;
+    font-weight: 300;
+}
+#conocimientos {
+    font-family:"Montserrat", sans-serif;
+    font-weight: 300;
+}
+
+#espaciado {
+    margin-right: 40%;
+    margin-left: 5%;
+}
+
+
+
+
+
